@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{A07B5EB6-E848-4116-A8D0-A826331D98C6}") = "AureliaOnSF", "AureliaOnSF\AureliaOnSF.sfproj", "{4AC38992-2367-4B6A-9B48-3B97571812BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebUI", "WebUI\WebUI.csproj", "{9E0D9ED2-4F20-455F-8F16-3D0FEFB09EA9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E0A01A9E-3D0D-4329-A884-F09534D0EF3D}"
+	ProjectSection(SolutionItems) = preProject
+		readme.md = readme.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Debug|x64.ActiveCfg = Debug|x64
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Debug|x64.Build.0 = Debug|x64
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Debug|x64.Deploy.0 = Debug|x64
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Release|x64.ActiveCfg = Release|x64
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Release|x64.Build.0 = Release|x64
+		{4AC38992-2367-4B6A-9B48-3B97571812BA}.Release|x64.Deploy.0 = Release|x64
+		{9E0D9ED2-4F20-455F-8F16-3D0FEFB09EA9}.Debug|x64.ActiveCfg = Debug|x64
+		{9E0D9ED2-4F20-455F-8F16-3D0FEFB09EA9}.Debug|x64.Build.0 = Debug|x64
+		{9E0D9ED2-4F20-455F-8F16-3D0FEFB09EA9}.Release|x64.ActiveCfg = Release|x64
+		{9E0D9ED2-4F20-455F-8F16-3D0FEFB09EA9}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
